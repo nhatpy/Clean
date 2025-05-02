@@ -2,5 +2,3 @@
 - Teamsize: 5 members
 - My role: full-stack developer
 - My responsibilty: Contribute to database design, user-friendly interface building (Booking Service and Statistical), CRUD API for booking entity and some features for user entity.
-- Repositories:
-    - [Frontend & Backend](https://github.com/bichsonnhat/Clean)
